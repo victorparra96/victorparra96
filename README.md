@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @victorparra96
+- 👀 I’m interested in Python/Django
+- 🌱 I’m currently learning DRF, English
+- 📫 How to reach me victorhugo9620@hotmail.com
