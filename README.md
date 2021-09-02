@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @victorparra96
-- 👀 I’m interested in Python/Django
-- 🌱 I’m currently learning DRF, English
+- 👀 I’m interested in Python/Go
+- 🌱 I’m currently learning English
