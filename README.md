@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @victorparra96
-- 👀 I’m interested in Python/Go
+- 👀 I’m interested in Python/Go/Crypto
 - 🌱 I’m currently learning English
